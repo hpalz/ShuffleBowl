@@ -1,0 +1,34 @@
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\FarseerPhysicsTutorial.dll
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\FarseerPhysicsTutorial.pdb
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\Farseer Physics XNA WP7.dll
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\Farseer Physics XNA WP7.pdb
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\obj\Windows Phone\Debug\FarseerPhysicsTutorial.dll
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\obj\Windows Phone\Debug\FarseerPhysicsTutorial.pdb
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\FarseerPhysicsTutorial.xap
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\Content\pin.xnb
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\Content\puck.xnb
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\Content\Arial.xnb
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\Content\BowlingLane.xnb
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\Content\RedLine.xnb
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\Content\HSfont.xnb
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\Content\hsTable.xnb
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\Content\TitleFont.xnb
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\Content\ContinueGame.xnb
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\Content\EndGame.xnb
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\Content\SoundOff.xnb
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\Content\SoundOn.xnb
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\Content\StartGame.xnb
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\Content\RestartGame.xnb
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\Content\collisionSoundStereo.xnb
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\FarseerPhysicsTutorial.xap
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Harry\Documents\Windows Phone\FarseerPhysicsTutorial\FarseerPhysicsTutorial\FarseerPhysicsTutorial\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\

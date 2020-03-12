@@ -1,0 +1,8 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="ShuffleBowl" EntryPointType="ShuffleBowl.Game1" RuntimeVersion="3.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="ShuffleBowl" Source="ShuffleBowl.dll" />
+    <AssemblyPart x:Name="Farseer Physics XNA WP7" Source="Farseer Physics XNA WP7.dll" />
+    <AssemblyPart x:Name="Microsoft.Advertising.Mobile.Xna" Source="Microsoft.Advertising.Mobile.Xna.dll" />
+    <AssemblyPart x:Name="Microsoft.Advertising.Mobile" Source="Microsoft.Advertising.Mobile.dll" />
+  </Deployment.Parts>
+</Deployment>

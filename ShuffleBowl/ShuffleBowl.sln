@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShuffleBowl", "ShuffleBowl\ShuffleBowl\ShuffleBowl.csproj", "{282CE812-6338-49A8-85D6-30ED0F5C2DEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShuffleBowlContent", "ShuffleBowl\ShuffleBowlContent\ShuffleBowlContent.contentproj", "{37EB200F-EC44-4651-8A9C-510578C113E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{282CE812-6338-49A8-85D6-30ED0F5C2DEC}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{282CE812-6338-49A8-85D6-30ED0F5C2DEC}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{282CE812-6338-49A8-85D6-30ED0F5C2DEC}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{282CE812-6338-49A8-85D6-30ED0F5C2DEC}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{282CE812-6338-49A8-85D6-30ED0F5C2DEC}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{282CE812-6338-49A8-85D6-30ED0F5C2DEC}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{37EB200F-EC44-4651-8A9C-510578C113E3}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{37EB200F-EC44-4651-8A9C-510578C113E3}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
